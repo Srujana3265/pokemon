@@ -1,0 +1,11 @@
+import React from "react";
+class Employee extends React.Component{
+    render(){
+        return(
+<React.Fragment>
+    <h2>Welcome to Employee Component</h2>
+</React.Fragment>
+        );
+    }
+}
+export default Employee;

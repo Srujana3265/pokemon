@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+  
+}
+.navbar{
+  background-color: deepskyblue;
+  font-size: 24px;
+  padding:8px;
+  
+}
+.card{
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  padding: 30px;
+  margin:50px;
+  text-align: center;
+  background-color: teal;
+  color:white;
+}
+.formcls{
+  margin:40px;
+}
+/* h1,
+p {
+  font-family: Lato;
+} */
+table,tr,td{
+  border-collapse: collapse;
+}
+.product {
+  border: 1px solid brown;
+  margin-top: 5px;
+}
+
